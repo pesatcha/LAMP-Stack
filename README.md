@@ -2,7 +2,7 @@
  เข้าไปที่ command linux เมื่อมีสิทธิ์ root แล้ว  
  # ติดตั้ง Apache  
  ใช้คำสั่ง yum install httpd  
- เมื่อติดตั้งเสร็จ ใช้คำสั่ง systemctl start httpd เป็นคำสั่งเริ่มต้นใช้งาน  
+ เมื่อติดตั้งเสร็จ ใช้คำสั่ง systemctl start httpd เป็นคำสั่งrestart webserver
  systemctl enable httpd เป็นคำสั่งเปิดใช้งาน  
  systemctl status httpd คำสั่งในการเช็คว่าทำงานรึยัง  
  จากนั้น นำ ip เช็คที่หน้า webbrowser ด้วยการ ใส่ ip address
