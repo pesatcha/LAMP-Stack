@@ -5,7 +5,7 @@
  เมื่อติดตั้งเสร็จ ใช้คำสั่ง systemctl start httpd เป็นคำสั่งเริ่มต้นใช้งาน  
  systemctl enable httpd เป็นคำสั่งเปิดใช้งาน  
  systemctl status httpd คำสั่งในการเช็คว่าทำงานรึยัง  
- จากนั้น นำ ip เช็คที่หน้า webbrowser 
+ จากนั้น นำ ip เช็คที่หน้า webbrowser ด้วยการ ใส่ ip address
  # ติดตั้ง Mysql  
  ใช้คำสั่ง yum install mariadb-server  
   เมื่อติดตั้งเสร็จ ใช้คำสั่ง systemctl start mariadb เป็นคำสั่งเริ่มต้นใช้งาน  
