@@ -25,7 +25,7 @@
  # เว็บแหล่งหาคำสั่งข้อมูลเพิ่มเติม
  คำสั่ง root centos    
  http://www.doanytech.com/add-create-a-sudo-user-for-centos-8/    
- คำสั่ง vi
+ คำสั่ง vi  
  [https://secure.jvh.co.th/index.php/knowledgebase/36/Linux-Server-CentOS](https://secure.jvh.co.th/index.php/knowledgebase/36/Linux-Server-CentOS--%E0%B8%AB%E0%B8%94%E0%B9%83%E0%B8%8A-vi-%E0%B9%81%E0%B8%81%E0%B9%84%E0%B8%82%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B8%9A%E0%B8%99%E0%B8%A5%E0%B8%99%E0%B8%81%E0%B8%8B.html#:~:text=%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%20%3Awq%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81,%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%94%E0%B8%B9%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%81%E0%B9%89%E0%B9%84%E0%B8%82)  
 สอนติดตั้ง LAMP Stack  
 https://www.youtube.com/watch?v=cd4gFDQQMDE  
