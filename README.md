@@ -1,4 +1,4 @@
-# satrt_LAMP-Stack
+# LAMP_Stack
  เมื่อเข้า root ได้แล้ว  
  # ติดตั้ง Apache  
  ใช้คำสั่ง yum install httpd  
