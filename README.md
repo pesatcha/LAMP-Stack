@@ -1,5 +1,5 @@
 # LAMP_Stack
- เมื่อเข้า root ได้แล้ว  
+ เข้าไปที่ command linux เมื่อมีสิทธิ์ root แล้ว  
  # ติดตั้ง Apache  
  ใช้คำสั่ง yum install httpd  
  เมื่อติดตั้งเสร็จ ใช้คำสั่ง systemctl start httpd เป็นคำสั่งเริ่มต้นใช้งาน  
