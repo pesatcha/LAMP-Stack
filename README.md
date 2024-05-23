@@ -30,6 +30,8 @@
 สอนติดตั้ง LAMP Stack  
 https://www.youtube.com/watch?v=cd4gFDQQMDE  
 Linux commands VI  
-https://medium.com/@pratya.yeekhaday/linux-vi-command-69bfd522fff
+https://medium.com/@pratya.yeekhaday/linux-vi-command-69bfd522fff  
+คำสั่ง PHP  
+https://www.w3schools.com/php/default.asp
  
   
