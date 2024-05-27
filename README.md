@@ -9,8 +9,8 @@
  # ติดตั้ง Mysql  
  ใช้คำสั่ง yum install mariadb-server  
   เมื่อติดตั้งเสร็จ ใช้คำสั่ง systemctl start mariadb เป็นคำสั่งเริ่มต้นใช้งาน  
-  systemctl enable mariadb-server เป็นคำสั่งเปิดใช้งาน  
-  systemctl status mariadb-server คำสั่งในการเช็คว่าทำงานรึยัง  
+  systemctl enable mariadb เป็นคำสั่งเปิดใช้งาน  
+  systemctl status mariadb คำสั่งในการเช็คว่าทำงานรึยัง  
   mysql -u root -p คำสั่ง login เข้าไปในฐานข้อมูล "ครั้งแรกที่ล็อคอินเข้าจะไม่มี password"  
   คำสั่ง show databases;  เพื่อแสดงฐานข้อมูล หากต้องการออกให้ใช้คำสั่ง \q  
   mysql_sacure_installation คำสั่งติดตั้ง password ให้กับ root
