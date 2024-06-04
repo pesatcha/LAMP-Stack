@@ -22,6 +22,12 @@
  how to test  ให้ค้นหา w3school php connect to mysql นำตัวอย่างโค้ดมาใส่ที่  
  cd /var/www/html/  
  สร้างไฟล์.php ใน vi เช่น vi ชื่อไฟล์.php เมื่อเข้าไปที่ vi แล้ว ให้ใส่โค้ด แล้วทดสอบด้วยการ เข้าไปที่ webbrowser ใส่เลข ip เครื่อง / ชื่อไฟล์.php
+ # วิธีการปิด Firewall ใน CentOS 
+systemctl stop firewalld  
+systemctl disable firewalld  
+systemctl mask –now firewalld  
+ตรวจสอบว่า Firewall ถูกปิดไปหรือยัง  
+systemctl status firewalld  
  # เว็บแหล่งหาคำสั่งข้อมูลเพิ่มเติม
  คำสั่ง root centos    
  http://www.doanytech.com/add-create-a-sudo-user-for-centos-8/    
